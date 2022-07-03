@@ -51,7 +51,7 @@ ul li a {
 /* section1 */
 
 #section-1 {
-    background-image: url("images/hero.png");
+    background-image: url("Images/hero.png");
     background-size: cover;
     background-position: center;
     height: 65vh;
